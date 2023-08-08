@@ -2,4 +2,11 @@
 Shell Scripting, we learn bash shell scripting
 
 list of topics:
-commit and push 
+commit 
+print
+functions 
+loops
+exit status &
+SED editor
+
+
